@@ -21,8 +21,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari95&theme=default" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/Riyakumari95/count.svg?" alt="visitors count" />
-
 ## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Riyakumari95" alt="trophy" />
