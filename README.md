@@ -1,11 +1,33 @@
-<h1>Hi 👋, I'm Riya</h1>
-<p>"A passionate and driven aspiring Data Scientist with a strong enthusiasm for uncovering insights from data. Dedicated to leveraging analytical thinking, machine learning, and data visualization to solve real-world problems. Continuously learning and growing in the field, with a commitment to making data-driven decisions that create impact."</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiyaKumari95&show_icons=true&locale=en&layout=compact" alt="RiyaKumari95" /></p>
+# Hello 👋, I'm Riya
+### Data Scientist
+
+"I’m a passionate learner who’s really interested in becoming a Data Scientist. I enjoy working with data, finding patterns, and using it to solve real-life problems. I’m always learning new things and want to use data to help make better decisions and create positive impact."
+
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riyakumari95&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakumari95&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyakumari95&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/Riyakumari95/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Riyakumari95" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyakumari95&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
